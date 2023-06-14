@@ -1,2 +1,1 @@
-class CfgNotifications
-{};
+class CfgNotifications {};

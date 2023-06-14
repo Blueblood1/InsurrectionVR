@@ -1,4 +1,1 @@
-class CfgSounds
-{
-	sounds[] = {};
-};
+class CfgSounds {};

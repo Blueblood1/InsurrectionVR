@@ -1,2 +1,1 @@
-class CfgMusic
-{};
+class CfgMusic {};

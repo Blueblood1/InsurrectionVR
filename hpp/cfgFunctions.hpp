@@ -34,10 +34,10 @@ class CfgFunctions {
             class settings_init_globals;
         };
     };
-	class server {
-	    class core {
+    class server {
+        class core {
             file = "fnc\_server\core";
-	    };
+        };
         class role {
             tag = "role";
             file = "fnc\_server\role";
@@ -45,5 +45,5 @@ class CfgFunctions {
             class role_init_globals;
             class role_init_player_globals;
         };
-	};
+    };
 };

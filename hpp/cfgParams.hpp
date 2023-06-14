@@ -1,2 +1,1 @@
-class Params
-{};
+class Params {};
